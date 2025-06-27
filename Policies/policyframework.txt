@@ -1,0 +1,135 @@
+  PURPOSE:
+
+   The purpose of the organization Policy Framework is to define the policies required for acceptable practices regarding the use of organizational people, process, data and/or technology.
+
+  SCOPE:
+
+   This document applies to all departments and users of organizational people, process, data and/or technology.
+
+ 
+
+        RESPONSIBILITIES:
+
+   Information Security
+
+        Owns this Policy Framework and is responsible for ensuring that these policies are in place to comply with this policy framework and regulatory requirements.
+
+        Will review these policies annually
+
+ 
+
+       CORP-POLICY Acceptable Use Policy:
+
+     The purpose of the organization Acceptable Use Policy is to establish acceptable practices regarding the use organization Information Resources to protect the confidentiality, integrity, and availability of information created, collected, and maintained.
+
+ 
+
+       CORP-POLICY Identity and Access Management Policy:
+
+    The purpose of the organization Identity and Access Management Policy is to establish the requirements necessary to ensure that access to and use of organization Information Resources is managed in accordance with business requirements, information security requirements, and other organization policies and procedures.
+
+
+    CORP-POLICY Data Classification Policy: 
+
+    The purpose of the organization Data Classification Policy is to provide a system for classifying and managing organization Information Resources per the risks associated with its storage, processing, transmission, and destruction.
+
+       CORP-POLICY Information Security Policy:
+
+    The purpose of the organization Information Security Policy is to describe the actions and behaviors required to ensure that due care is taken to avoid inappropriate risks to organization, its business partners, and its stakeholders.
+
+ 
+
+ 
+
+ 
+
+       CORP-POLICY 3rd Party Vendor Management Policy:
+
+    The purpose of the organization Vendor Management Policy is to describe the actions and behaviors required to ensure that due care is taken to avoid inappropriate risks organization, its business partners, and its stakeholders from any of its vendors.  Exceptions to this policy may be granted on a per-case basis, approved by the Chief Financial Officer (” CFO”), Chief Technology Officer (“CTO “) or Chief Information Security Officer (”CISO”) or their designee; some vendors may have pre-written standard contracts that cannot be altered.
+
+ 
+
+       CORP-POLICY Asset Management Policy:
+
+    The purpose of the organization Asset Management Policy is to establish rules for the control of hardware, software, applications, and information used by organization
+
+ 
+
+   CORP-POLICY Data Retention Policy:
+
+                      The purpose of the organization Data Retention Policy is to establish a commonly understood schedule regarding the retention and disposal of records, electronic documents, and data assets at organization
+
+ 
+
+   CORP-POLICY Incident Response Policy:
+
+                      The purpose of the organization Incident Response Policy is to describe the requirements for dealing with security incidents at organization
+
+ 
+
+    CORP-POLICY Risk Management Policy:
+
+                      The purpose of the organization Risk Management Policy is to establish the requirements for the assessment and treatment of information security-related risks facing organization
+
+ 
+
+   CORP-POLICY Network Security Policy:
+
+             The purpose of the organization Network Security Policy is to establish rules for the maintenance, expansion, and use of network infrastructure at organization It describes required network configurations for permanent work sites where organization or its personnel have control over wired and wireless network settings, such as organization offices.
+
+ 
+
+  CORP-POLICY Change Control Policy:
+
+             The purpose of the organization Change Control Policy is to establish the rules for the creation, evaluation, implementation, and tracking of changes made to organization, Inc Information Resources.
+
+ 
+
+   CORP-POLICY Secure Software Development Policy:
+
+             The purpose of the organization Secure Software Development Policy is to establish the rules for evaluating, developing, and/or deploying Information Resources at organization
+
+ 
+
+   CORP-POLICY Mobile Device Policy:
+
+             The purpose of the organization Mobile Device Policy is to establish rules for acceptable use of mobile devices with Information Resources at organization
+
+ 
+
+   CORP-POLICY Encryption Policy:
+
+             The purpose of the organization Encryption Policy is to establish the rules for acceptable use of encryption technologies with Information Resources at organization
+
+ 
+
+   CORP-POLICY System Configuration Management Policy:
+
+             The purpose of the organization System Configuration Management Policy is to establish a configuration standard for all computers used to access organization Information Resources.
+
+ 
+
+   CORP-POLICY Vulnerability Management Policy:
+
+                      The purpose of the organization Vulnerability Management Policy is to establish the rules for the review, evaluation, application, and verification of system updates to mitigate vulnerabilities in the IT environment and the risks associated with them at organization
+
+ 
+
+   CORP-POLICY Auditing Policy:
+
+                      The purpose of the organization Auditing Policy is to establish the requirements for conducting audit-related reviews of information security resources at organization Inc. Auditing customer-managed systems is the responsibility of the customer.
+
+   CORP-POLICY Logging and Monitoring Policy:
+
+                      The purpose of the organization Logging and Monitoring Policy is to establish a standard for logging and monitoring systems and processes used to access organization Information Resources.
+
+ 
+
+   REFERENCES:
+
+                      Policies align with the best practices set forth by the National Institute of Standards and Technology’s Cybersecurity Framework 2.0: GV.OC, GV.RM, GV.RR, GV.PO, GV.OV, GV.SC
+
+                      Policies align with best practices set forth by the Center for Internet Security (“CIS”) 8.1
+
+
+ 
