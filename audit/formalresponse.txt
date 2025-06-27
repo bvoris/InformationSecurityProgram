@@ -1,0 +1,9 @@
+Formal Response Commitment to Information Security
+
+ 
+
+Our organization maintains a structured and comprehensive information security program designed to safeguard our people, processes, data, and technology. We have implemented appropriate security controls that align with industry-recognized frameworks, including the NIST Cybersecurity Framework (CSF) 2.0. Our program includes documented policies, standards, and processes that support the confidentiality, integrity, and availability of our systems and information assets.
+
+ 
+
+All requests for attestation must be submitted in the form of a formalized questionnaire. A minimum review period of two (2) weeks is required to ensure adequate time for evaluation, verification, and response. Requests that do not adhere to this format or timeline may be subject to delay or rejection.
